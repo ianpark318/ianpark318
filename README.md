@@ -12,5 +12,5 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 <h2> 📫 How to reach me </h2>
-send me e-mail!
+send me e-mail! <br>
 💻 ianpark318@gmail.com
