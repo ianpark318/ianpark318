@@ -1,4 +1,4 @@
-<h1> 👁‍🗨Hi there, I'm Jaehyeong Park who wants to be MLOps🔥 </h1>
+<h1> 👁‍🗨Hi there, I'm Jaehyeong Park who wants to be Autonomous driving AI Researcher🔥 </h1>
 
 <h2> 💥 I've done before </h2>
 
