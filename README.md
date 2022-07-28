@@ -1,6 +1,6 @@
 ## ✋ **Hi there, I'm Jaehyeong Park**
 
-## 🚗 **I want to be Autonomous driving AI Researcher**
+## 🔥 **I want to be AI Engineer**
 
 ## 📌 **I've done before**
 
