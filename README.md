@@ -1,6 +1,4 @@
-## ✋ **Hi there, I'm Jaehyeong Park**
-
-## 🔥 **I want to be AI Engineer**
+## ✋ **I'm Jaehyeong Park who want to be AI researcher**
 
 ## 📌 **I've done before**
 
@@ -14,4 +12,4 @@
 
 ## 📫 **How to reach me**
 You can send me e-mail!  
-💻 ianpark318@gmail.com
+💻 ianpark318@pusan.ac.kr
